@@ -1,0 +1,22 @@
+﻿Field,Field_Description,ObjectId
+Index,Record Unique Identifier,1
+event_unique_id,Event Occurrence Identifier,2
+Primary_Offence,Offence related to the occurrence,3
+Occurrence_Date,Date of occurrence,4
+Occurrence_Year,Occurrence year,5
+Occurrence_Month,Occurrence Month,6
+Occurrence_Day,Occurrence Day,7
+Occurrence_Time,Occurrence Time,8
+Division,Police Division where event occurred,9
+City,City where event occurred,10
+Location_Type,Location Type where event occurred,11
+Premise_Type,Premise Type where event occurred,12
+Bike_Make,Bicycle Make,13
+Bike_Model,Bicycle Model,14
+Bike_Type,Bicycle Type,15
+Bike_Speed,Bicycle Speed,16
+Bike_Colour,Bicycle Colour,17
+Cost_of_Bike,Cost of Bicycle,18
+Status,Status of event,19
+Lat,Longitude of point extracted after offsetting X and & Coordinates to nearest intersection node,20
+Long,Latitude of point extracted after offsetting X and & Coordinates to nearest intersection node,21
